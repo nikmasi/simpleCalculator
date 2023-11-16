@@ -1,0 +1,4 @@
+C:\Users\JA\Desktop\C++ programi\firstGuiApp\firstGuiApp\x64\Debug\firstGuiApp.vcxproj.AssemblyReference.cache
+C:\Users\JA\Desktop\C++ programi\firstGuiApp\firstGuiApp\x64\Debug\firstGuiApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\JA\Desktop\C++ programi\firstGuiApp\firstGuiApp\x64\Debug\firstGuiApp.MyForm.resources
+C:\Users\JA\Desktop\C++ programi\firstGuiApp\firstGuiApp\x64\Debug\firstGuiApp.vcxproj.GenerateResource.cache
