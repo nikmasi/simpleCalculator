@@ -10,7 +10,8 @@ To run this calculator application, you need to have Microsoft Visual Studio ins
 
 ### Screenshots
 
-![Screenshot (248)](https://github.com/nikmasi/simpleCalculator/assets/138830925/9a84879f-9586-4f34-8452-8ad983da4969)
+![Screenshot (249)](https://github.com/nikmasi/simpleCalculator/assets/138830925/37a6963a-c8ba-4a35-b869-a91de660d13b)
+
 
 ### Acknowledgements
 This calculator application was created as a learning project.
