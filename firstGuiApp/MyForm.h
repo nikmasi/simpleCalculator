@@ -23,7 +23,7 @@ namespace firstGuiApp {
 			//
 			this->textBox1->KeyPress += gcnew System::Windows::Forms::KeyPressEventHandler(this, &MyForm::textBox1_KeyPress); //onemogucavanje unosa preko tastature
 
-			// Onemoguæi promenu velièine prozora
+			// OnemoguÃ¦i promenu veliÃ¨ine prozora
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
 		}
 
@@ -394,7 +394,7 @@ namespace firstGuiApp {
 			this->Controls->Add(this->buttonAdd);
 			this->Controls->Add(this->textBox1);
 			this->Name = L"MyForm";
-			this->Text = L"MyForm";
+			this->Text = L"simpleCalculator";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
@@ -407,7 +407,7 @@ namespace firstGuiApp {
 	private: System::Void textBox1_TextChanged(System::Object^ sender, System::EventArgs^ e) {
 	}
 	private: System::Void textBox1_KeyPress(System::Object^ sender, System::Windows::Forms::KeyPressEventArgs^ e) {
-		// Onemoguæi unos sa tastature
+		// OnemoguÃ¦i unos sa tastature
 		e->Handled = true;
 	}
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
